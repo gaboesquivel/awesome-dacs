@@ -1,6 +1,6 @@
 # awesome-dacs
 
-A list of links about all kinds of DACs
+A list of links about all kinds of DAC/Os
 
 - video: [The Power and Potential of DAO/Cs by Brock Pierce](https://www.youtube.com/watch?v=Wf5gfjMfiHA)
 - video: [EOS: The Era of the DACs by Brendan Blumer](https://www.youtube.com/watch?v=ClJSLwoBtCc)
