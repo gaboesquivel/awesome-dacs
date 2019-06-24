@@ -10,3 +10,4 @@ A list of links about all kinds of DAC/Os
 - video: [Meet the Blockers 3: Luke Stokes and team of eosDAC](https://www.youtube.com/watch?v=6ddfqWFUaTM)
 - website: [EOS Allaince](https://eosalliance.io/)
 - video: [The Four Pillars of a Decentralized Society by Johann Gevers](https://www.youtube.com/watch?v=8oeiOeDq_Nc)
+- video: [DACs, DAOs and Decentralized Communities - EOS Radio](https://www.youtube.com/watch?v=-RzWkdp1AFw)
