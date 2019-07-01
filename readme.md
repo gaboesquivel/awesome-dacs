@@ -2,6 +2,15 @@
 
 A list of links about all kinds of DAC/Os
 
+## Motivation
+
+This is common repository for all good content related to DAC/Os so that people spent less time looking around.
+
+ Join the conversation in Telegram:
+ - [Pura Vida Dev Channel](https://t.me/puravidadev)
+ - [Pura Vida DAC Channel](https://t.me/puravidadac)
+
+
 ## Articles and Talks
 
 - video: [What is a DAC (Decentralized Autonomous Company)?](https://www.youtube.com/watch?v=QG-CcbtwKKU)
