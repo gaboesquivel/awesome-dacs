@@ -24,3 +24,5 @@ This is common repository for all good content related to DAC/Os so that people 
 - video: [DACs, DAOs and Decentralized Communities by EOS Radio](https://www.youtube.com/watch?v=-RzWkdp1AFw)
 - video: [DAOs, decentralised governance by Matan Field](https://www.youtube.com/watch?v=7RMY5ECJqKQ)
 - video: [The Zero Marginal Cost Society by Jeremy Rifkin](https://www.youtube.com/watch?v=5-iDUcETjvo)
+- video: [Simplifying DAC Adoption and On-Boarding with eosdAC.Getting started with DACs and DAOs](https://www.youtube.com/watch?v=xBdNY-1abJg)
+- video: [The Future of Liberland At the European Parliament December 2018](https://www.youtube.com/watch?v=e7b6NIGEYNg)
