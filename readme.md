@@ -4,15 +4,16 @@
 		<img src="https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg" alt="Collaborative Etiquette">
 	</a>
 	<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT" />
-	<a href="https://twitter.com/intent/follow?screen_name=blockmatic_io">
-		<img src="https://img.shields.io/twitter/follow/blockmatic_io.svg?style=social&logo=twitter" alt="Follow on Twitter" />
+	<a href="https://twitter.com/intent/follow?screen_name=puravidadac">
+		<img src="https://img.shields.io/twitter/follow/puravidadac.svg?style=social&logo=twitter" alt="Follow on Twitter" />
 	</a>
-	<a href="https://t.me/blockmatic">
+	<a href="https://t.me/puravidadac">
 		<img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue?style=social&logo=telegram" alt="Chat on Telegram">
 	</a>
 </p>
 
-# Awesome DAC
+
+# Awesome DACs
 
 A list of links about all kinds of DAC/Os. DACs are awesome!
 
