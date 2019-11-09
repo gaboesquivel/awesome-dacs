@@ -4,14 +4,13 @@
 		<img src="https://img.shields.io/badge/%E2%9C%93-collaborative_etiquette-brightgreen.svg" alt="Collaborative Etiquette">
 	</a>
 	<img src="https://img.shields.io/dub/l/vibe-d.svg" alt="MIT" />
-	<a href="https://twitter.com/intent/follow?screen_name=puravidadac">
-		<img src="https://img.shields.io/twitter/follow/puravidadac.svg?style=social&logo=twitter" alt="Follow on Twitter" />
+	<a href="https://twitter.com/intent/follow?screen_name=liftdapp">
+	<img src="https://img.shields.io/twitter/follow/liftdapp.svg?style=social&logo=twitter" alt="Follow on Twitter" />
 	</a>
-	<a href="https://t.me/puravidadac">
+	<a href="https://t.me/liftdapp">
 		<img src="https://img.shields.io/badge/-Chat%20on%20Telegram-blue?style=social&logo=telegram" alt="Chat on Telegram">
 	</a>
 </p>
-
 
 # Awesome DACs
 
@@ -22,8 +21,7 @@ A list of links about all kinds of DAC/Os. DACs are awesome!
 This is common repository for all good content related to DAC/Os so that people spent less time looking around.
 
  Join the conversation in Telegram:
- - [Pura Vida Dev Channel](https://t.me/puravidadev)
- - [Pura Vida DAC Channel](https://t.me/puravidadac)
+ - [LIFT dApp Community](https://t.me/liftdapp)
 
 
 ## Articles and Talks
@@ -44,22 +42,15 @@ This is common repository for all good content related to DAC/Os so that people 
 
 ## License
 
-MIT © [PuraVida DAC](http://puravidadac.one)  
-
-## Become a Supporter
-
-You can become by sending us crypto to the following addresses:
- 
-- EOS: puravidadac1
-- TELOS: puravidadac1
+MIT © Lift
 
 ---
 
-## Pura Vida DAC
+## LIFT
 
-The Pura Vida DAC is software development collective that operates entirely on smart contracts.
+Lift yourself up by lifting others up.
 
-[puravidadac.io](https://puravidadac.io)  
+[t.me/liftdapp](t.me/liftdapp)  
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -88,8 +79,8 @@ The Pura Vida DAC is software development collective that operates entirely on s
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/puravidadac
-[2]: http://fb.me/puravidadac
-[3]: http://www.github.com/puravidadac
+[1]: http://www.twitter.com/liftdapp
+[2]: http://fb.me/liftdapp
+[3]: http://www.github.com/liftdapp
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
