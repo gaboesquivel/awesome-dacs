@@ -40,12 +40,6 @@ This is common repository for all good content related to DAC/Os so that people 
 - video: [Simplifying DAC Adoption and On-Boarding with eosdAC.Getting started with DACs and DAOs](https://www.youtube.com/watch?v=xBdNY-1abJg)
 - video: [The Future of Liberland At the European Parliament December 2018](https://www.youtube.com/watch?v=e7b6NIGEYNg)
 
-## License
-
-MIT © Lift
-
----
-
 ## LIFT
 
 Lift yourself up by lifting others up.
