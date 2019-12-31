@@ -43,6 +43,10 @@ This is common repository for all good content related to DAC/Os so that people 
 
 <!-- display the social media buttons in your README -->
 
+## LIFT
+
+A Community for Knowledge Sharing
+
 [![Twitter][1.1]][1]
 [![Facebook][2.1]][2]
 [![Github][3.1]][3]
