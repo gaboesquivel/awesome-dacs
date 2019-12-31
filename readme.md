@@ -23,7 +23,6 @@ This is common repository for all good content related to DAC/Os so that people 
  Join the conversation in Telegram:
  - [LIFT dApp Community](https://t.me/liftdapp)
 
-
 ## Articles and Talks
 
 - video: [What is a DAC (Decentralized Autonomous Company)?](https://www.youtube.com/watch?v=QG-CcbtwKKU)
@@ -40,19 +39,13 @@ This is common repository for all good content related to DAC/Os so that people 
 - video: [Simplifying DAC Adoption and On-Boarding with eosdAC.Getting started with DACs and DAOs](https://www.youtube.com/watch?v=xBdNY-1abJg)
 - video: [The Future of Liberland At the European Parliament December 2018](https://www.youtube.com/watch?v=e7b6NIGEYNg)
 
-## LIFT
-
-Lift yourself up by lifting others up.
-
-[t.me/liftdapp](t.me/liftdapp)  
-
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
 
-[![PuraVida DAC Twitter][1.1]][1]
-[![PuraVida DAC Facebook][2.1]][2]
-[![PuraVida DAC Github][3.1]][3]
+[![Twitter][1.1]][1]
+[![Facebook][2.1]][2]
+[![Github][3.1]][3]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
